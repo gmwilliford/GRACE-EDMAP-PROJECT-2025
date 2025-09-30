@@ -1,4 +1,4 @@
-Single-Aquifer GRACE→GWS (R ≥ 4.x )
+Single-Aquifer GRACE derived GWS anomaly (R ≥ 4.x )
 
 Modular R workflow to process one aquifer: trains an RF model on GRACE + GLDAS,
 Applies residual correction at 0.25°, 
